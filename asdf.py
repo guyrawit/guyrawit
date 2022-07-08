@@ -1,1 +1,1 @@
-print('duke')
+print('dukes')
